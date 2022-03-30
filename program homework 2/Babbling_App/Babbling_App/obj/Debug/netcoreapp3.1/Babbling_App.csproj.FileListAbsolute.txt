@@ -1,0 +1,36 @@
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\bin\Debug\netcoreapp3.1\Babbling_App.exe
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\bin\Debug\netcoreapp3.1\Babbling_App.deps.json
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\bin\Debug\netcoreapp3.1\Babbling_App.runtimeconfig.json
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\bin\Debug\netcoreapp3.1\Babbling_App.runtimeconfig.dev.json
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\bin\Debug\netcoreapp3.1\Babbling_App.dll
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\bin\Debug\netcoreapp3.1\Babbling_App.pdb
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.csproj.AssemblyReference.cache
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App_MarkupCompile.cache
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.g.resources
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.AssemblyInfoInputs.cache
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.AssemblyInfo.cs
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.csproj.CoreCompileInputs.cache
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.dll
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.pdb
+C:\Users\sc77\Desktop\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.genruntimeconfig.cache
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\bin\Debug\netcoreapp3.1\Babbling_App.exe
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\bin\Debug\netcoreapp3.1\Babbling_App.deps.json
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\bin\Debug\netcoreapp3.1\Babbling_App.runtimeconfig.json
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\bin\Debug\netcoreapp3.1\Babbling_App.runtimeconfig.dev.json
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\bin\Debug\netcoreapp3.1\Babbling_App.dll
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\bin\Debug\netcoreapp3.1\Babbling_App.pdb
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.csproj.AssemblyReference.cache
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App_MarkupCompile.cache
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.g.resources
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.AssemblyInfoInputs.cache
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.AssemblyInfo.cs
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.csproj.CoreCompileInputs.cache
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.dll
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.pdb
+C:\Users\sc77\OneDrive - Calvin University\cs212\program homework 2\Babbling_App\Babbling_App\obj\Debug\netcoreapp3.1\Babbling_App.genruntimeconfig.cache
