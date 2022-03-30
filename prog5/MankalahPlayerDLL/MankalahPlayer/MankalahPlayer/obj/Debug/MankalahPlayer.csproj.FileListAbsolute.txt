@@ -1,0 +1,2 @@
+C:\Users\sc77\Desktop\prog5\MankalahPlayerDLL\MankalahPlayer\MankalahPlayer\obj\Debug\MankalahPlayer.csproj.AssemblyReference.cache
+C:\Users\sc77\Desktop\prog5\MankalahPlayerDLL\MankalahPlayer\MankalahPlayer\obj\Debug\MankalahPlayer.csproj.CoreCompileInputs.cache
