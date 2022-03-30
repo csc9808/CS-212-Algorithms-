@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0RILBuQjHK5vOsC4QNi5in379AJ5awk26ZaivLyKqvkFSRxIypaZNZ8bEHqNmwIwsbTHqQtzMnhSvK5g5LcvHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sc77\\Desktop\\Bingo-project\\Bingo\\Bingo\\Bingo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sc77\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
